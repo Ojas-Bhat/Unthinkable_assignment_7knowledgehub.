@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+.env/
+
+# IDE and editor folders
+.vscode/
+.idea/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables file
+.env
+
+# Data files (if you have large PDFs or other data)
+# For example, if your PDF is in a 'data' folder:
+data/
+# Or if you want to ignore all PDFs:
+*.pdf
